@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://avni:1234@cluster0.4ktga.mongodb.net/?retryWrites=true&w=majority"
+}
